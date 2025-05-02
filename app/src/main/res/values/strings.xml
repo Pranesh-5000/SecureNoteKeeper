@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secure Note Keeper</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="view_note">View Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="note_content">Note Content</string>
+    <string name="secure_note_keeper">Secure Note Keeper</string>
+</resources>
