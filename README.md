@@ -1,0 +1,1 @@
+SecureNoteKeeper is an Android application designed to provide users with a safe, simple, and efficient way to store sensitive notes on their device. The app prioritizes data privacy with encryption and user authentication, ensuring that personal notes remain protected from unauthorized access.
